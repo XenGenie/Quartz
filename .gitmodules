@@ -1,0 +1,6 @@
+[submodule "xMembership"]
+	path = xMembership
+	url = https://github.com/SuperDomX/xMembership
+[submodule "xSupportTicket"]
+	path = xSupportTicket
+	url = https://github.com/SuperDomX/xSupportTicket
