@@ -4,3 +4,9 @@
 [submodule "xSupportTicket"]
 	path = xSupportTicket
 	url = https://github.com/SuperDomX/xSupportTicket
+[submodule "Shop"]
+	path = Shop
+	url = http://github.com/SuperDomX/xShop
+[submodule "xShop"]
+	path = xShop
+	url = http://github.com/SuperDomX/xShop
