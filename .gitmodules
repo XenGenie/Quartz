@@ -10,3 +10,18 @@
 [submodule "xShop"]
 	path = xShop
 	url = http://github.com/SuperDomX/xShop
+[submodule "xAccess"]
+	path = xAccess
+	url = http://github.com/SuperDomX/xAccess
+[submodule "xNavigation"]
+	path = xNavigation
+	url = http://github.com/SuperDomX/xNavigation
+[submodule "xBlox"]
+	path = xBlox
+	url = http://github.com/SuperDomX/xBlox
+[submodule "xLogin"]
+	path = xLogin
+	url = http://github.com/SuperDomX/xLogin
+[submodule "xLang"]
+	path = xLang
+	url = http://github.com/SuperDomX/xLang
